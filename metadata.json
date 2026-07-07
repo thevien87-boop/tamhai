@@ -1,0 +1,6 @@
+{
+  "name": "Danh bạ Du lịch Tam Hải",
+  "description": "Website danh bạ du lịch, kết nối trực tiếp khách hàng với các dịch vụ homestay, ăn uống, di chuyển và cẩm nang trải nghiệm tại đảo Tam Hải, Quảng Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
